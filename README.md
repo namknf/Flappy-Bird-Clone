@@ -16,3 +16,5 @@
 - change skins
 ---
 ![Skins](https://github.com/namknf/flappy-bird-clone/raw/main/Sprites/fb3.png)
+---
+**There is a coin and points counter(:**
