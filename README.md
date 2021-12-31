@@ -10,6 +10,9 @@
 
 ## In this game you can see:
 - change of night and day theme
+---
 ![Themes](https://github.com/namknf/flappy-bird-clone/raw/main/Sprites/fb1.png)
+---
 - change skins
+---
 ![Skins](https://github.com/namknf/flappy-bird-clone/raw/main/Sprites/fb3.png)
